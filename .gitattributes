@@ -1,0 +1,7 @@
+# Godot Asset Library downloads only need the addon
+/examples export-ignore
+/project.godot export-ignore
+/.gitignore export-ignore
+/.gitattributes export-ignore
+/icon.png export-ignore
+* text=auto eol=lf
